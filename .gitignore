@@ -1,0 +1,6 @@
+*.log
+.DS_Store
+dist
+build
+**/docker-volumes
+**/node_modules
